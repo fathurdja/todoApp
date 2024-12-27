@@ -28,9 +28,7 @@ Walky Talky is a sleek and user-friendly Android application built using **Jetpa
 ## 📱 Screenshots
 
 <div align="center">
-<img src="path_to_screenshot_1" alt="Home Screen" width="200"/>
-<img src="path_to_screenshot_2" alt="Note Editor" width="200"/>
-<img src="path_to_screenshot_3" alt="Categories View" width="200"/>
+Uploading Screen Recording 2024-12-27 at 5.13.13 PM.mov…
 </div>
 
 ## 🛠️ Technologies Used
