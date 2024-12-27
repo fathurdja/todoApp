@@ -1,8 +1,9 @@
 # NotesMaker: Your Personal Note-Taking Companion
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/31c28e79-96d9-4544-bb97-ef571a7553b8" width="200" height="200"/>
 
-![Walky Talky Logo](path_to_logo)
+
 
 A modern note-taking application built with Jetpack Compose for Android
 
