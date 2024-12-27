@@ -15,7 +15,7 @@ A modern note-taking application built with Jetpack Compose for Android
 
 ## 🌟 Overview
 
-Walky Talky is a sleek and user-friendly Android application built using **Jetpack Compose**, designed to help you effortlessly create, manage, and organize your notes. Whether it's your daily thoughts, project ideas, or to-dos, Walky Talky ensures you stay organized and productive. With a clean interface and smooth performance, you'll have all your notes at your fingertips.
+NotesMaker is a sleek and user-friendly Android application built using **Jetpack Compose**, designed to help you effortlessly create, manage, and organize your notes. Whether it's your daily thoughts, project ideas, or to-dos, Walky Talky ensures you stay organized and productive. With a clean interface and smooth performance, you'll have all your notes at your fingertips.
 
 ## 🚀 Features
 
